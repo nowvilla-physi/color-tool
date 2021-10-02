@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/color-tool/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/color-tool/static/js/main.caa758d5.chunk.js",
+    "main.js.map": "/color-tool/static/js/main.caa758d5.chunk.js.map",
+    "runtime-main.js": "/color-tool/static/js/runtime-main.b815b379.js",
+    "runtime-main.js.map": "/color-tool/static/js/runtime-main.b815b379.js.map",
+    "static/js/2.608b007f.chunk.js": "/color-tool/static/js/2.608b007f.chunk.js",
+    "static/js/2.608b007f.chunk.js.map": "/color-tool/static/js/2.608b007f.chunk.js.map",
+    "static/js/3.928e662d.chunk.js": "/color-tool/static/js/3.928e662d.chunk.js",
+    "static/js/3.928e662d.chunk.js.map": "/color-tool/static/js/3.928e662d.chunk.js.map",
+    "index.html": "/color-tool/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/color-tool/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.608b007f.chunk.js.LICENSE.txt": "/color-tool/static/js/2.608b007f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/color-tool/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b815b379.js",
+    "static/js/2.608b007f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.caa758d5.chunk.js"
+  ]
+}
