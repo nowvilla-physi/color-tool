@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+@import "_mixin.scss";
+
+.slider--r {
+    @include slider-background();
+    background: linear-gradient(90deg, $black 0%, rgba(94,0,0,1) 50%, $red 100%);
+}
+
+.slider--g {
+    @include slider-background();
+    background: linear-gradient(90deg, $black 0%, rgba(0,94,0,1) 50%, $green 100%);
+}
+
+.slider--b {
+    @include slider-background();
+    background: linear-gradient(90deg, $black 0%, rgba(0,0,94,1) 50%, $blue 100%);
+}
+
+.slider--h {
+    @include slider-background();
+    background: linear-gradient(90deg,
+            rgba(255,0,0,1) 0%,
+            rgba(255,165,0,1) 14%,
+            rgba(255,255,0,1) 28%,
+            rgba(0,128,0,1) 42%,
+            rgba(0,255,255,1) 56%,
+            rgba(0,0,255,1) 70%,
+            rgba(128,0,128,1) 84%,
+            rgba(255,0,0,1) 100%
+    );
+}
+
+.slider--s {
+    @include slider-background();
+    background: linear-gradient(90deg, $white 0%, #61dafb 100%);
+    color: $black;
+}
+
+.slider--v {
+    @include slider-background();
+    background: linear-gradient(90deg, $black 0%, #61dafb 100%);
+}

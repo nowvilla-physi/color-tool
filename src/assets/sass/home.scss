@@ -1,0 +1,92 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+@import "_mixin.scss";
+
+.home {
+    padding-bottom: 16px;
+
+    &__description {
+        margin-bottom: 4px;
+        text-decoration: underline;
+
+        @include mq(sm) {
+            margin: 8px 4px;
+        }
+
+        &:last-of-type {
+            margin-bottom: 8px;
+        }
+
+        &--inline {
+            display: inline;
+            padding-left: 16px;
+        }
+    }
+
+    &__arrow {
+        margin: 0 8px;
+
+        @include mq(sm) {
+            margin: 0 2px;
+        }
+    }
+
+    &__color-kind {
+        font-size: 1.1rem;
+        font-weight: normal;
+
+        @include mq(md) {
+            font-size: 1.0rem;
+        }
+
+        @include mq(sm) {
+            font-size: 0.3rem;
+        }
+    }
+
+    &__slider {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-bottom: 4px;
+
+        @include mq(sm) {
+            flex-direction: column;
+        }
+    }
+
+    &__to-hex {
+        display: flex;
+        align-items: center;
+    }
+
+    &__approximate-color {
+        &-row {
+            display: flex;
+            justify-content: flex-start;
+
+        }
+    }
+
+    &__approximate_color-label {
+        margin: 16px 0 8px;
+        font-size: 1.4rem;
+        font-weight: bold;
+
+        @include mq(sm) {
+            font-size: 1.0rem;
+        }
+    }
+
+    &__complementary_color-label {
+        margin: 16px 0 8px;
+        font-size: 1.4rem;
+        font-weight: bold;
+
+        @include mq(sm) {
+            font-size: 1.0rem;
+        }
+    }
+}
+

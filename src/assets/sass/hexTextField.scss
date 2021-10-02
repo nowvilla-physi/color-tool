@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+@import "_mixin.scss";
+
+.hex-text-field {
+    display: inline-block;
+
+    &__label {
+        margin-right: 4px;
+        font-size: 1.4rem;
+
+        @include mq(sm) {
+            margin-right: 2px;
+            font-size: 1.2rem;
+        }
+    }
+
+    &__input {
+        padding: 4px 8px;
+        width: 96px;
+        height: 32px;
+        border-radius: 4px;
+        box-shadow: 2px 2px 4px $light-gray;
+        background-color: $white;
+        color: $black;
+        font-weight: normal;
+
+        @include mq(sm) {
+            padding: 2px 4px;
+            width: 52px;
+        }
+    }
+}

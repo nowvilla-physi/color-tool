@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+
+.palette-label {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 32px;
+    border-right: 1px solid $gray;
+    border-left: 1px solid $gray;
+    background-color: $light-gray;
+    color: $black;
+}

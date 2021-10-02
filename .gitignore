@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# production
+build
+
+package-lock.json
+
+# environmental config
+.env
+
+# Intellij IDEA files
+.idea/

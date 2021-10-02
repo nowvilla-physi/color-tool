@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+@import "_mixin.scss";
+
+.complementary-color-area {
+    margin-top: 16px;
+    padding: 16px 32px;
+    border-radius: 16px;
+
+    &__description {
+        margin: 4px 0;
+    }
+}

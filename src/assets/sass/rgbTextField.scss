@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+@import "_variables.scss";
+@import "_mixin.scss";
+
+.rgb-text-field {
+
+    &__label {
+        @include mq(sm) {
+            font-size: 0.8rem;
+        }
+    }
+
+    &__input {
+
+        &--red {
+            @include rgb-text-field-base();
+            color: $red;
+        }
+
+        &--green {
+            @include rgb-text-field-base();
+            color: $green;
+        }
+
+        &--blue {
+            @include rgb-text-field-base();
+            color: $blue;
+        }
+    }
+}

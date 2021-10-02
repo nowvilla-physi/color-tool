@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+@import "_breakPoints.scss";
+@import "_variables.scss";
+
+@mixin mq($breakPoint) {
+    @media #{map-get($breakPoints, $breakPoint)} {
+        @content;
+    }
+}
+
+@mixin rgb-text-field-base() {
+    width: 48px;
+    height: 32px;
+    margin-right: 16px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 4px $light-gray;
+    background-color: $white;
+    font-weight: normal;
+
+    @include mq(sm) {
+        width: 40px;
+    }
+}
+
+@mixin slider-background() {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    width: 160px;
+    padding: 8px 16px 8px 8px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 8px $light-gray;
+    color: $white;
+
+    @include mq(sm) {
+        width: 70%;
+    }
+}
+
