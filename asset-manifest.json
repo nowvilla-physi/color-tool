@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/color-tool/static/css/main.7d205c3d.chunk.css",
-    "main.js": "/color-tool/static/js/main.0fdf1dc7.chunk.js",
-    "main.js.map": "/color-tool/static/js/main.0fdf1dc7.chunk.js.map",
-    "runtime-main.js": "/color-tool/static/js/runtime-main.85f499d4.js",
-    "runtime-main.js.map": "/color-tool/static/js/runtime-main.85f499d4.js.map",
-    "static/js/2.ed6722dc.chunk.js": "/color-tool/static/js/2.ed6722dc.chunk.js",
-    "static/js/2.ed6722dc.chunk.js.map": "/color-tool/static/js/2.ed6722dc.chunk.js.map",
-    "static/js/3.e25ced42.chunk.js": "/color-tool/static/js/3.e25ced42.chunk.js",
-    "static/js/3.e25ced42.chunk.js.map": "/color-tool/static/js/3.e25ced42.chunk.js.map",
+    "main.css": "/color-tool/static/css/main.7d700e7a.chunk.css",
+    "main.js": "/color-tool/static/js/main.5b214b71.chunk.js",
+    "main.js.map": "/color-tool/static/js/main.5b214b71.chunk.js.map",
+    "runtime-main.js": "/color-tool/static/js/runtime-main.01e5cde7.js",
+    "runtime-main.js.map": "/color-tool/static/js/runtime-main.01e5cde7.js.map",
+    "static/css/2.4a35ef0a.chunk.css": "/color-tool/static/css/2.4a35ef0a.chunk.css",
+    "static/js/2.f5641fd8.chunk.js": "/color-tool/static/js/2.f5641fd8.chunk.js",
+    "static/js/2.f5641fd8.chunk.js.map": "/color-tool/static/js/2.f5641fd8.chunk.js.map",
+    "static/js/3.6505b6db.chunk.js": "/color-tool/static/js/3.6505b6db.chunk.js",
+    "static/js/3.6505b6db.chunk.js.map": "/color-tool/static/js/3.6505b6db.chunk.js.map",
     "index.html": "/color-tool/index.html",
-    "static/css/main.7d205c3d.chunk.css.map": "/color-tool/static/css/main.7d205c3d.chunk.css.map",
-    "static/js/2.ed6722dc.chunk.js.LICENSE.txt": "/color-tool/static/js/2.ed6722dc.chunk.js.LICENSE.txt",
+    "static/css/2.4a35ef0a.chunk.css.map": "/color-tool/static/css/2.4a35ef0a.chunk.css.map",
+    "static/css/main.7d700e7a.chunk.css.map": "/color-tool/static/css/main.7d700e7a.chunk.css.map",
+    "static/js/2.f5641fd8.chunk.js.LICENSE.txt": "/color-tool/static/js/2.f5641fd8.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/color-tool/static/media/background.1941ed5d.jpg",
     "static/media/logo.25a25603.svg": "/color-tool/static/media/logo.25a25603.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.85f499d4.js",
-    "static/js/2.ed6722dc.chunk.js",
-    "static/css/main.7d205c3d.chunk.css",
-    "static/js/main.0fdf1dc7.chunk.js"
+    "static/js/runtime-main.01e5cde7.js",
+    "static/css/2.4a35ef0a.chunk.css",
+    "static/js/2.f5641fd8.chunk.js",
+    "static/css/main.7d700e7a.chunk.css",
+    "static/js/main.5b214b71.chunk.js"
   ]
 }
