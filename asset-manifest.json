@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/color-tool/static/css/main.07e7a954.chunk.css",
-    "main.js": "/color-tool/static/js/main.822e3185.chunk.js",
-    "main.js.map": "/color-tool/static/js/main.822e3185.chunk.js.map",
+    "main.css": "/color-tool/static/css/main.e76891b2.chunk.css",
+    "main.js": "/color-tool/static/js/main.9d2d4a32.chunk.js",
+    "main.js.map": "/color-tool/static/js/main.9d2d4a32.chunk.js.map",
     "runtime-main.js": "/color-tool/static/js/runtime-main.87bcc50a.js",
     "runtime-main.js.map": "/color-tool/static/js/runtime-main.87bcc50a.js.map",
     "static/css/2.4a35ef0a.chunk.css": "/color-tool/static/css/2.4a35ef0a.chunk.css",
@@ -12,16 +12,16 @@
     "static/js/3.a8a450a9.chunk.js.map": "/color-tool/static/js/3.a8a450a9.chunk.js.map",
     "index.html": "/color-tool/index.html",
     "static/css/2.4a35ef0a.chunk.css.map": "/color-tool/static/css/2.4a35ef0a.chunk.css.map",
-    "static/css/main.07e7a954.chunk.css.map": "/color-tool/static/css/main.07e7a954.chunk.css.map",
+    "static/css/main.e76891b2.chunk.css.map": "/color-tool/static/css/main.e76891b2.chunk.css.map",
     "static/js/2.86497159.chunk.js.LICENSE.txt": "/color-tool/static/js/2.86497159.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/color-tool/static/media/background.1941ed5d.jpg",
+    "static/media/App.scss": "/color-tool/static/media/background.9f1a9855.png",
     "static/media/logo.25a25603.svg": "/color-tool/static/media/logo.25a25603.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.87bcc50a.js",
     "static/css/2.4a35ef0a.chunk.css",
     "static/js/2.86497159.chunk.js",
-    "static/css/main.07e7a954.chunk.css",
-    "static/js/main.822e3185.chunk.js"
+    "static/css/main.e76891b2.chunk.css",
+    "static/js/main.9d2d4a32.chunk.js"
   ]
 }
